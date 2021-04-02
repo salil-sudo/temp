@@ -1,2 +1,0 @@
-#/bin/bash
-echo | neomutt -s "test done" phaedo7@gmail.com
